@@ -44,7 +44,14 @@
             "max":"3",
             "price":"1000"
         }
-     ]
+     ],
+     "user":[{
+       "id":1,
+       "username":"prince",
+       "avatar":"hbhjbhjjb",
+       "email":"princeranu98@gmail.com",
+       "password":"123456"
+     }]
 
       
   
