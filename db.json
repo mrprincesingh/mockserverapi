@@ -25,47 +25,26 @@
            "test1":"kdskns"
             }
        ], 
-        "user":[
-            {   
-                "id":1,
-                "username":"prince singh",
-                "avatar":"https://images.unsplash.com/photo-1678854354576-1d7504664911?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-                "email":"princeranu98@gmail.com",
-                "password":"123456",
-                "addblog":[
-                    {
-                        "id":1,
-                        "username":"prince singh",
-                        "title":"the blog",
-                        "content":"this is a blog",
-                        "Category":"tech",
-                        "date":"2017-06-01"
-                    }
-                ]
+     "users":[
+        { 
 
-            }
-        ],
-        "signin":[
-            {
-                "id":1,
-                "email":"princeranu98@gmail.com",
-                "password":"123456"
-            }
-        ],
-        "viewblog":[
-            {
-                "id" : 1,
-            "username": "coreyschafer",
-            "title": "the blog",
-            "content": "this is a blog",
-                "category" : "tech",
-                "date" : "2017-06-01",
-                "likes" : 24,
-                "comments" : [
-                    {"id":1,"username" : "Jane", "content" : "Good One"}
-                ]
-          }
-        ]
+            "email":"princeranu98@gmail.com",
+            "password":"123456",
+            "name":"prince"
+        }
+     ],
+     "hotels":[
+        {
+            "category":"family",
+            "image":"jgdjnkjnkjds",
+            "room":"ac",
+            "bed":"single",
+            "numofadults":"2",
+            "max":"3",
+            "price":"1000"
+        }
+     ]
+
       
   
   }
