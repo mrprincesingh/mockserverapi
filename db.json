@@ -51,6 +51,11 @@
        "avatar":"hbhjbhjjb",
        "email":"princeranu98@gmail.com",
        "password":"123456"
+     }],
+     "todo":[{
+      "id":1,
+      "title":"react",
+      "status":"false"
      }]
 
       
